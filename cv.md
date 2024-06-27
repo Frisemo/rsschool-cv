@@ -1,18 +1,20 @@
 # Avtandil Janashvili
 
+---
+
 ## Contact information:
 
 * Phone: +995 599 223 456
 * Telegram: @Frisemo
 * Email: a6235050@gmail.com
 
-
+---
 
 ## About Me
 
 I am 19 years old. I am able to work in a team, able to perform most tasks independently in the workplace. I am a good worker and fit the requirements of any employer
 
-
+---
 
 ## Skills
 
@@ -21,7 +23,7 @@ I am 19 years old. I am able to work in a team, able to perform most tasks indep
 * GitHub, GitLab
 * Photoshop (Basic)
 
-
+---
 
 ## Code Example
 
@@ -35,11 +37,13 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 };
 ```
 
+---
+
 ## Education
 
 * ITstep Programming Academy
 
-
+---
 
 ## Languages
 
