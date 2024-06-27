@@ -34,3 +34,15 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
   }
 };
 ```
+
+## Education
+
+* ITstep Programming Academy
+
+
+
+## Languages
+
+* English (A2)
+* Georgian (Native)
+* Russian (Native)
