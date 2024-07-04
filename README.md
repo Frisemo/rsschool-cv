@@ -1,1 +1,1 @@
-https://Frisemo.github.io/rsschool-cv/cv
+https://Frisemo.github.io/rsschool-cv/
